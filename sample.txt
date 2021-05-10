@@ -1,3 +1,7 @@
 Hello, this is Sam and I'm editing the sample.txt file.
 And I have edited it in Github as well.
+<<<<<<< HEAD
 I modified it in VS Code
+=======
+And here is another edit.
+>>>>>>> ce688c270f824f4b31e41d24656d63c13b034fc6
