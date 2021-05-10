@@ -1,2 +1,3 @@
 Hello, this is Sam and I'm editing the sample.txt file.
 And I have edited it in Github as well.
+I modified it in VS Code
